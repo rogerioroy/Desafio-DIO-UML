@@ -1,0 +1,7 @@
+import ReprodutorMusical;
+
+public abstract class Player implements ReprodutorMusical {
+
+
+	
+}

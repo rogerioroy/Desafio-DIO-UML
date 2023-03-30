@@ -1,0 +1,13 @@
+package iphone;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Iphone iphone = new Iphone(819999999);
+		
+		iphone.ligar();
+		
+	}
+
+}

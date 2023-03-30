@@ -1,0 +1,11 @@
+package iphone;
+
+public interface NavegadorInternet {
+
+	void exibirPagina(String texto);
+
+	void adicionarNovaAba(String texto);
+
+	void atualizarPagina(String texto);
+
+}

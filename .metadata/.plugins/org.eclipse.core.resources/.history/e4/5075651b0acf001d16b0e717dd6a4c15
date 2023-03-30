@@ -1,0 +1,10 @@
+
+public interface ReprodutorMusical {
+	
+	void tocar(String tocar);
+	
+	void pausar(String pausar);
+	
+	void selecionarMusica(String selecionarMusica);
+
+}

@@ -1,0 +1,9 @@
+package iphone;
+
+public class Player implements ReprodutorMusical {
+
+
+
+
+	
+}

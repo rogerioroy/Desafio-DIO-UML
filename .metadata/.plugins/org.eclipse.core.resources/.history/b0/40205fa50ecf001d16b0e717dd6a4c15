@@ -1,0 +1,11 @@
+package iphone;
+
+public interface ReprodutorMusical {
+
+	void tocar(String texto);
+
+	void pausar(String texto);
+
+	void selecionarMusica(String texto);
+
+}

@@ -1,0 +1,45 @@
+package iphone;
+
+public class Iphone implements AparelhoTelefonico, ReprodutorMusical, NavegadorInternet {
+
+	@Override
+	public void exibirPagina() {
+
+	}
+
+	@Override
+	public void adicionarNovaAba() {
+
+	}
+
+	@Override
+	public void atualizarPagina() {
+	
+	}
+
+	@Override
+	public void tocar() {
+	}
+
+	@Override
+	public void pausar() {
+	}
+
+	@Override
+	public void selecionarMusica() {
+	}
+
+	@Override
+	public void ligar() {
+		System.out.println("Ligando Iphone");
+	}
+
+	@Override
+	public void atender() {
+	}
+
+	@Override
+	public void iniciarCorreioVoz() {
+	}
+
+}
